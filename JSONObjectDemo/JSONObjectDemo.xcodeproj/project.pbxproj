@@ -82,11 +82,6 @@
 			children = (
 				C0F413591465838F00CF2567 /* JSONObject.h */,
 				C0F4135A1465838F00CF2567 /* JSONObject.m */,
-				C0F4134B146582EB00CF2567 /* AppDelegate.h */,
-				C0F4134C146582EB00CF2567 /* AppDelegate.m */,
-				C0F4134E146582EB00CF2567 /* ViewController.h */,
-				C0F4134F146582EB00CF2567 /* ViewController.m */,
-				C0F41351146582EB00CF2567 /* ViewController.xib */,
 				C0F41343146582EB00CF2567 /* Supporting Files */,
 			);
 			path = JSONObjectDemo;
@@ -95,6 +90,11 @@
 		C0F41343146582EB00CF2567 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C0F4134B146582EB00CF2567 /* AppDelegate.h */,
+				C0F4134C146582EB00CF2567 /* AppDelegate.m */,
+				C0F4134E146582EB00CF2567 /* ViewController.h */,
+				C0F4134F146582EB00CF2567 /* ViewController.m */,
+				C0F41351146582EB00CF2567 /* ViewController.xib */,
 				C0F41344146582EB00CF2567 /* JSONObjectDemo-Info.plist */,
 				C0F41345146582EB00CF2567 /* InfoPlist.strings */,
 				C0F41348146582EB00CF2567 /* main.m */,
@@ -280,6 +280,7 @@
 				C0F41358146582EB00CF2567 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

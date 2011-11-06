@@ -1,0 +1,43 @@
+JSONObject
+=============
+
+JSONObject is an iPhone drop-in class that makes converting raw JSON to Objective-C simple and easy.  
+
+JSONObject is iOS5 and iPad compatible and released under the MIT license (see JSONObject.h).
+
+Adding JSONObject to your project
+====================================
+
+The simplest way to add the JSONObject to your project is to directly add the `JSONObject` and `JSONObject` source files to your project.
+
+1. Download the latest code version from the repository (you can simply use the Download Source button and get the zip or tar archive of the master branch).
+2. Extract the archive.
+3. Open your project in Xcode, than drag and drop `JSONObject` and `JSONObject` to your classes group (in the Groups & Files view). 
+4. Make sure to select Copy items when asked. 
+
+
+Usage
+=====
+
+Extensive documentation is provided in the header file (JSONObject.h). In addition to a full Xcode demo project is included in the Demo directory. 
+
+License
+=======
+
+This code is distributed under the terms and conditions of the MIT license. 
+
+Copyright (c) 2011 Joseph Cerra
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+Change-log
+==========
+
+**Version 0.1** @ 11.6.11
+
+- Initial release.
